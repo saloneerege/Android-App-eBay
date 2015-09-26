@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EBayMobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="strArr">
+      <item>Best Match</item>
+      <item>Price: highest first</item>
+      <item>Price + Shipping: highest first</item>
+      <item>Price + Shipping: lowest first</item>
+    </string-array>
+    <string name="title_activity_result_page">ResultPage</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">767446566686482</string>
+</resources>
